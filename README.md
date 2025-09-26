@@ -16,15 +16,6 @@ It provides **real-time room availability**, **instant booking/approval**, and *
 
 ---
 
-## 🧑‍💻 User Roles & Permissions
-| Role      | Permissions |
-|-----------|-------------|
-| **Admin (Max 2)** | Create/Edit/Delete/View bookings, manage user roles, approve/reject bookings (auto-approval if no pending status), secure login, summarized dashboard |
-| **Teacher/Staff** | Secure login, request bookings, view personal booking dashboard |
-| **Student** | View room booking schedules (no login required) |
-
----
-
 ## ⚙️ Functional Requirements
 | Code | Description |
 |------|-------------|
@@ -47,15 +38,13 @@ It provides **real-time room availability**, **instant booking/approval**, and *
 
 ---
 
-## 🔧 Tech Stack (Suggested)
+## 🔧 Tech Stack 
 | Layer | Technology |
 |------|------------|
-| Frontend | React.js / Vue.js |
-| Backend | Node.js / Django / Spring Boot |
-| Database | MySQL / PostgreSQL |
+| Frontend | HTML / CSS / JS / Bootdtrap |
+| Backend | Python / Django |
+| Database | MySQL  |
 | Authentication | JWT / OAuth 2.0 |
-| Integration | JCUB Calendar/Timetable API |
-| Hosting | AWS / Azure / On-Premise |
 
 ---
 
