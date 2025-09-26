@@ -1,5 +1,3 @@
-# JCUB-Room-Booking-System
-
 # 🏫 JCUB Room Booking System (RBS)
 
 ## 📌 Overview
