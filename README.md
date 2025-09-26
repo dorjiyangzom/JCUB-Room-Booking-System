@@ -43,8 +43,7 @@ It provides **real-time room availability**, **instant booking/approval**, and *
 |------|------------|
 | Frontend | HTML / CSS / JS / Bootdtrap |
 | Backend | Python / Django |
-| Database | MySQL  |
-| Authentication | JWT / OAuth 2.0 |
+| Database | MongoDB  |
 
 ---
 
