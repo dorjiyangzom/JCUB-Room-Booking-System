@@ -41,7 +41,7 @@ It provides **real-time room availability**, **instant booking/approval**, and *
 ## 🔧 Tech Stack 
 | Layer | Technology |
 |------|------------|
-| Frontend | HTML / CSS / JS / Bootdtrap |
+| Frontend | HTML / CSS / JS / Bootstrap |
 | Backend | Python / Django |
 | Database | MongoDB  |
 
