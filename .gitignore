@@ -1,0 +1,79 @@
+# ========================================
+# 🐍 Python
+# ========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ========================================
+# 🧱 Django-specific
+# ========================================
+
+# Local Django settings or secrets
+*.sqlite3
+db.sqlite3
+/local_settings.py
+/secrets.json
+
+# Static and media files (generated)
+staticfiles/
+static/
+media/
+
+# Django cache files
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Gunicorn or uWSGI logs
+gunicorn.log
+*.pid
+
+# ========================================
+# 🧰 IDE & Editor files
+# ========================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ========================================
+# 🧠 OS files
+# ========================================
+.DS_Store
+Thumbs.db
+
+# ========================================
+# 🧪 Testing
+# ========================================
+.coverage
+htmlcov/
+.tox/
+.nox/
+.cache/
+.pytest_cache/
